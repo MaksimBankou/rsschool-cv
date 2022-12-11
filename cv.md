@@ -20,6 +20,7 @@ I am currently working as a motion designer, I wanted to practice programming an
 * JavaScript \**
 * JAVA *
 * C/C++ \*
+
 -------
 
 These skills were acquired through university classes or independent study
